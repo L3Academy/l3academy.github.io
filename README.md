@@ -1,2 +1,2 @@
-# website
+# Website
 Website for L3Academy
